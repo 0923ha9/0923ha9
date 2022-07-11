@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @0923ha9
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-how to install python on your termux app for Androids
 
-<!---
-0923ha9/0923ha9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+- pkg update
+- pkg upgrade
+-apt/pkg install python
+- y 
+- y
+- y 
