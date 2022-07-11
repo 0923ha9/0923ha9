@@ -4,7 +4,8 @@
 
 - pkg update
 - pkg upgrade
--apt/pkg install python
+- apt/pkg install python
 - y 
 - y
 - y 
+
